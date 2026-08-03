@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.6.0](https://github.com/rolehippie/errors/compare/v4.5.0...v4.6.0) (2026-08-03)
+
+### Dependencies
+
+* **minor:** update webhippie/errors docker tag to v2.7.0 ([#75](https://github.com/rolehippie/errors/issues/75)) ([01782b0](https://github.com/rolehippie/errors/commit/01782b02980914a241e6743bd1da59f055ae160e))
+
 ## [4.5.0](https://github.com/rolehippie/errors/compare/v4.4.0...v4.5.0) (2026-07-27)
 
 ## [4.4.0](https://github.com/rolehippie/errors/compare/v4.3.0...v4.4.0) (2026-06-29)
