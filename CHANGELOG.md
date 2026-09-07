@@ -1,5 +1,15 @@
 # Changelog
 
+## [4.9.0](https://github.com/rolehippie/errors/compare/v4.8.2...v4.9.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([be50e45](https://github.com/rolehippie/errors/commit/be50e45538dc5237e7ebde20775c5838ec1fba21))
+
+### Dependencies
+
+* **minor:** update dependency community.docker to >=5.3.0,<5.4.0 ([#86](https://github.com/rolehippie/errors/issues/86)) ([369ff6e](https://github.com/rolehippie/errors/commit/369ff6ea81755825941fb8600b7789d3f4346808))
+
 ## [4.8.2](https://github.com/rolehippie/errors/compare/v4.8.1...v4.8.2) (2026-08-31)
 
 ### Dependencies
