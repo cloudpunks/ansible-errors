@@ -1,5 +1,14 @@
 # Changelog
 
+## [4.10.0](https://github.com/rolehippie/errors/compare/v4.9.0...v4.10.0) (2026-09-21)
+
+### Dependencies
+
+* **minor:** update webhippie/errors docker tag to v2.9.0 ([#89](https://github.com/rolehippie/errors/issues/89)) ([ac012e5](https://github.com/rolehippie/errors/commit/ac012e5fefc79868ceb8bafe75da1bcffe0fbfcd))
+* **mise:** update dependency pipx:ansible-core to v2.21.4 ([#87](https://github.com/rolehippie/errors/issues/87)) ([57a3245](https://github.com/rolehippie/errors/commit/57a3245a837de63263b21d38f4622460d4ed22c0))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.2 ([#90](https://github.com/rolehippie/errors/issues/90)) ([fd33b71](https://github.com/rolehippie/errors/commit/fd33b718187a6cc57df750a87bc458a94ef61f2b))
+* **mise:** update dependency prek to v0.5.3 ([#88](https://github.com/rolehippie/errors/issues/88)) ([fd2335a](https://github.com/rolehippie/errors/commit/fd2335a925c6a7eaba1f99482b09016e3fadbacc))
+
 ## [4.9.0](https://github.com/rolehippie/errors/compare/v4.8.2...v4.9.0) (2026-09-07)
 
 ### Features
