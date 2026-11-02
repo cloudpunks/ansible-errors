@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.13.1](https://github.com/rolehippie/errors/compare/v4.13.0...v4.13.1) (2026-11-02)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.9 ([#110](https://github.com/rolehippie/errors/issues/110)) ([29a500f](https://github.com/rolehippie/errors/commit/29a500fd60a9830ea352070388305282b8586f36))
+* **mise:** update node.js to v26 ([#109](https://github.com/rolehippie/errors/issues/109)) ([993bf84](https://github.com/rolehippie/errors/commit/993bf84f5cf008c2b6fa31ea5d42f7306f8f3bd5))
+* **patch:** update webhippie/errors docker tag to v2.11.1 ([#108](https://github.com/rolehippie/errors/issues/108)) ([6921b1e](https://github.com/rolehippie/errors/commit/6921b1e347827820bdff3be85bd0fc6daa41df4e))
+
 ## [4.13.0](https://github.com/rolehippie/errors/compare/v4.12.0...v4.13.0) (2026-10-26)
 
 ### Dependencies
