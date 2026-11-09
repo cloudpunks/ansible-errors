@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.13.2](https://github.com/rolehippie/errors/compare/v4.13.1...v4.13.2) (2026-11-09)
+
+### Dependencies
+
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#112](https://github.com/rolehippie/errors/issues/112)) ([c9d3835](https://github.com/rolehippie/errors/commit/c9d38351e0297cd9039e81ef6c5bc01220f74563))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#116](https://github.com/rolehippie/errors/issues/116)) ([83c03aa](https://github.com/rolehippie/errors/commit/83c03aa471ff5260cea67b9abac34cf5c120f21a))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#114](https://github.com/rolehippie/errors/issues/114)) ([3af9075](https://github.com/rolehippie/errors/commit/3af9075021a36d31f06c8edb2d4fcbfcf981d492))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#115](https://github.com/rolehippie/errors/issues/115)) ([2a55cdf](https://github.com/rolehippie/errors/commit/2a55cdfb6223f38fd8c954cc4388d88bcccf15e0))
+* **mise:** update dependency prek to v0.5.10 ([#113](https://github.com/rolehippie/errors/issues/113)) ([7c29b3c](https://github.com/rolehippie/errors/commit/7c29b3c31e1c143625fb6b6e512f113f1eb3f71c))
+* **patch:** update webhippie/errors docker tag to v2.11.2 ([#111](https://github.com/rolehippie/errors/issues/111)) ([340c197](https://github.com/rolehippie/errors/commit/340c197465425bb55357e5cf3fe08deaa879c704))
+
 ## [4.13.1](https://github.com/rolehippie/errors/compare/v4.13.0...v4.13.1) (2026-11-02)
 
 ### Dependencies
