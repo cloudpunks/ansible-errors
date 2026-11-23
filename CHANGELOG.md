@@ -1,5 +1,15 @@
 # Changelog
 
+## [4.13.3](https://github.com/rolehippie/errors/compare/v4.13.2...v4.13.3) (2026-11-23)
+
+* automated readme update [skip ci] ([2b560ac](https://github.com/rolehippie/errors/commit/2b560ac856a449c4df5c454892596e1a95fa9655))
+* automated release update [skip ci] ([8868183](https://github.com/rolehippie/errors/commit/88681830bf4b34d21a5889bae39e7c462e32b21b))
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.11 ([#117](https://github.com/rolehippie/errors/issues/117)) ([d5aebdd](https://github.com/rolehippie/errors/commit/d5aebdde62e91448b2d270ec44c350c2287ea9fa))
+* **patch:** update webhippie/errors docker tag to v2.11.3 ([#118](https://github.com/rolehippie/errors/issues/118)) ([5d66f12](https://github.com/rolehippie/errors/commit/5d66f129c0e7aee1accd65484470e8bd5d90221e))
+
 ## [4.13.2](https://github.com/rolehippie/errors/compare/v4.13.1...v4.13.2) (2026-11-09)
 
 ### Dependencies
